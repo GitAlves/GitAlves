@@ -21,6 +21,6 @@
   <a href="https://www.instagram.com/mateus.alves347/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mateus-alves-880b94181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![snake gif](https://github.com/GitAlves/GitAlves/blob/output/github-contribution-grid-snake.gif)
+  ![snake gif](https://github.com/GitAlves/GitAlves/blob/main/.github/workflows/snake-game.yml)
 
 </div>
